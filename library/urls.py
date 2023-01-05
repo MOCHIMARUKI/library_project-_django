@@ -6,4 +6,5 @@ app_name = 'library'
 
 urlpatterns = [
     path("", views.home, name="home"),
+    
 ]
